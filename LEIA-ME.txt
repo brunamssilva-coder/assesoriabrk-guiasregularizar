@@ -1,0 +1,24 @@
+SITE TAYLA ACESSORIOS E REPARACAO DE CELULARES LTDA
+
+Arquivos:
+- index.html: página inicial
+- style.css: estilos personalizados
+- sobre.html: página institucional
+- politica-privacidade.html: política de privacidade
+- termos-uso.html: termos de uso
+- assets/loja-1.jpg, loja-2.jpg, loja-3.jpg: imagens enviadas pelo cliente
+
+Como publicar:
+1. Extraia todos os arquivos mantendo a pasta assets.
+2. Envie os arquivos e a pasta assets para a pasta pública da hospedagem (normalmente public_html ou www).
+3. Abra index.html ou configure o domínio para apontar para essa pasta.
+4. Bootstrap e Bootstrap Icons são carregados por CDN, então o site precisa de internet para exibir esses recursos externos.
+
+Antes de anunciar no Google Ads:
+- Confira se razão social, nome fantasia, CNPJ, telefone, e-mail e endereço estão corretos.
+- Verifique se as imagens podem ser usadas comercialmente e substitua imagens ilustrativas por fotos próprias quando possível.
+- Confirme os serviços realmente oferecidos e disponibilidade antes de publicar promessas comerciais.
+- Revise a Política de Privacidade conforme ferramentas reais do site (Google Ads/Analytics, cookies, formulários, pixels e demais integrações).
+- Configure HTTPS/SSL no domínio.
+- Os textos legais são modelos iniciais e não constituem aconselhamento jurídico.
+- Os dados de porte/regime tributário fornecidos parecem inconsistentes entre si (LTDA e MEI); confirme a informação cadastral oficial antes de divulgar o porte. Por isso, o porte não foi destacado no site.
